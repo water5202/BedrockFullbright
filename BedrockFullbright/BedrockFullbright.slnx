@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="BedrockFullbright/BedrockFullbright.vcxproj" Id="6296d200-3b91-442b-9e3b-58315b1a2615" />
+</Solution>
